@@ -1,0 +1,756 @@
+Member ID,Status,Email Address,Tasting Room Visited,Customer_Segment,Year Discontinued,LTV at Discontinuance,Wealth Range Estimate,Reason for Leaving
+201400006,Discontinued,cmathis7@aol.com,Yes,Wine Enthusiast,2014,943.65,$200-400k,Staff not knowledgable
+201400008,Discontinued,harh13@comcast.net,Yes,Wine Enthusiast,2016,2634.67,$400-800k,Staff not knowledgable
+201400016,Discontinued,craigd@cox.net,No,Wine Enthusiast,2016,2918.09,$800-1200k,Staff not knowledgable
+201400024,Discontinued,mwade@me.com,Yes,Casual Visitor,2014,153.21,$200-400k,Prices too high
+201400025,Discontinued,a.diaz@msn.com,Yes,Casual Visitor,2016,197.65,Below $100k,Prices too high
+201400048,Discontinued,jreynolds6@hotmail.com,No,High Roller,2016,574.75,$400-800k,Prices too high
+201400053,Discontinued,k.nash@msn.com,Yes,Casual Visitor,2016,50.3,Below $100k,Staff not knowledgable
+201400056,Discontinued,d.collins@gmx.com,Yes,Casual Visitor,2016,417.36,$100-200k,Poor service
+201400064,Discontinued,rwallace@comcast.net,Yes,Casual Visitor,2016,281.67,$200-400k,Prices too high
+201400065,Discontinued,hwol35@facebook.com,Yes,Casual Visitor,2016,138.46,$100-200k,Prices too high
+201400070,Discontinued,ramirezk@verizon.net,Yes,Casual Visitor,2015,216.11,$200-400k,Poor service
+201400074,Discontinued,shep94@mac.com,No,Wine Enthusiast,2015,803.6,$200-400k,Poor service
+201400076,Discontinued,donc19@mail.com,No,High Roller,2016,5162.21,$400-800k,Prices too high
+201400082,Discontinued,donj81@google.com,No,Wine Enthusiast,2016,832.36,$1200-1800k,Not enough selection
+201400087,Discontinued,eforbes5@live.com,Yes,Casual Visitor,2015,162.86,$200-400k,Prices too high
+201400100,Discontinued,j.mooney@bellsouth.net,No,Wine Enthusiast,2016,880.51,$200-400k,Staff not knowledgable
+201400103,Discontinued,martinez6@google.com,No,Wine Enthusiast,2016,860.51,$200-400k,Staff not knowledgable
+201400112,Discontinued,gentry5@msn.com,No,Wine Enthusiast,2016,14758.89,Above $1800k,Staff not knowledgable
+201400116,Discontinued,rodriguezb@bellsouth.net,No,Wine Enthusiast,2016,666.63,$1200-1800k,Staff not knowledgable
+201400123,Discontinued,k.manning@charter.net,Yes,Casual Visitor,2016,120.75,$200-400k,Prices too high
+201400131,Discontinued,ajen24@cox.net,Yes,Casual Visitor,2016,425.19,$100-200k,Prices too high
+201400148,Discontinued,barr5@bellsouth.net,Yes,Casual Visitor,2016,348.84,$200-400k,Wine quality
+201400152,Discontinued,twilliams@gmx.com,Yes,Casual Visitor,2014,264.37,Below $100k,Staff not knowledgable
+201400156,Discontinued,vmoore@google.com,Yes,Casual Visitor,2016,163.44,$100-200k,
+201400157,Discontinued,graham5@earthlink.net,Yes,Wine Enthusiast,2016,665.08,$1200-1800k,Staff not knowledgable
+201400172,Discontinued,klop75@hotmail.com,No,Wine Enthusiast,2015,685.41,$200-400k,Staff not knowledgable
+201400173,Discontinued,donm13@aol.com,No,Wine Enthusiast,2015,814.7,$200-400k,Staff not knowledgable
+201400176,Discontinued,leob74@verizon.net,Yes,Casual Visitor,2015,305.84,$200-400k,
+201400178,Discontinued,gfletcher@bellsouth.net,No,Wine Enthusiast,2014,1943.16,$400-800k,Staff not knowledgable
+201400181,Discontinued,cgarza6@cox.net,Yes,Casual Visitor,2016,444.55,$200-400k,Not enough selection
+201400193,Discontinued,r.cabrera@googlemail.com,Yes,Casual Visitor,2016,96.9,$200-400k,Staff not knowledgable
+201400197,Discontinued,mtaylor@aol.com,Yes,Casual Visitor,2016,559.07,$100-200k,Poor service
+201400200,Discontinued,welch7@charter.net,No,Wine Enthusiast,2015,809.52,$200-400k,Staff not knowledgable
+201400205,Discontinued,aguilarc@live.com,Yes,Casual Visitor,2016,170.67,Below $100k,Prices too high
+201400210,Discontinued,tsmith@comcast.net,No,Wine Enthusiast,2016,1819.75,$200-400k,Staff not knowledgable
+201400213,Discontinued,gnov29@me.com,No,Wine Enthusiast,2016,780.92,$1200-1800k,Not enough selection
+201400214,Discontinued,cedr43@cox.net,Yes,Casual Visitor,2016,183.96,$400-800k,Not enough selection
+201400215,Discontinued,dgross@googlemail.com,No,Wine Enthusiast,2016,1381.42,$200-400k,Not enough selection
+201400221,Discontinued,kwolf1@facebook.com,Yes,Casual Visitor,2016,744.03,Below $100k,Prices too high
+201400222,Discontinued,cannonb@cox.net,Yes,Casual Visitor,2016,1000.46,$400-800k,Not enough selection
+201400223,Discontinued,dwhite8@gmx.com,Yes,Casual Visitor,2016,1517.01,$200-400k,Poor service
+201400225,Discontinued,juny80@juno.com,Yes,Wine Enthusiast,2016,1532.29,$200-400k,Staff not knowledgable
+201400228,Discontinued,jbradford9@juno.com,Yes,Casual Visitor,2016,527.16,$100-200k,Poor service
+201400239,Discontinued,aweb78@googlemail.com,No,Wine Enthusiast,2016,171.41,$100-200k,Staff not knowledgable
+201400241,Discontinued,nanc55@comcast.net,Yes,Casual Visitor,2016,787.36,$200-400k,Not enough selection
+201400242,Discontinued,donk80@earthlink.net,No,Wine Enthusiast,2016,2585.19,$800-1200k,Not enough selection
+201400243,Discontinued,rblevins@comcast.net,Yes,Casual Visitor,2016,299.74,$200-400k,Prices too high
+201400248,Discontinued,ljackson@yahoo.com,No,Wine Enthusiast,2014,803.48,$200-400k,Not enough selection
+201400256,Discontinued,parker2@bellsouth.net,Yes,Casual Visitor,2016,126.97,$100-200k,
+201400265,Discontinued,merh75@juno.com,No,Wine Enthusiast,2015,16347.96,Above $1800k,Prices too high
+201400283,Discontinued,becw41@facebook.com,No,Wine Enthusiast,2016,1513.93,$200-400k,Staff not knowledgable
+201400294,Discontinued,johc94@mac.com,No,Wine Enthusiast,2014,2081.03,$400-800k,Staff not knowledgable
+201400301,Discontinued,savage8@comcast.net,Yes,Casual Visitor,2016,71.77,$100-200k,Poor service
+201400310,Discontinued,anderson6@earthlink.net,No,Wine Enthusiast,2015,992.15,$200-400k,Not enough selection
+201400313,Discontinued,marg26@sbcglobal.net,Yes,Casual Visitor,2016,176.62,$200-400k,
+201400315,Discontinued,s.mason@aol.com,Yes,Casual Visitor,2015,618.48,$100-200k,Prices too high
+201400335,Discontinued,barh10@charter.net,Yes,Casual Visitor,2016,537.12,Below $100k,Prices too high
+201400336,Discontinued,h.morales@live.com,Yes,Casual Visitor,2016,107.27,$100-200k,Wine quality
+201400337,Discontinued,b.floyd@gmail.com,No,Wine Enthusiast,2016,2139.19,$400-800k,Staff not knowledgable
+201400343,Discontinued,card46@google.com,Yes,Casual Visitor,2016,518.19,$200-400k,Prices too high
+201400357,Discontinued,near55@sbcglobal.net,Yes,Casual Visitor,2015,1010.27,$400-800k,
+201400362,Discontinued,leonj@cox.net,Yes,Casual Visitor,2016,166.86,Below $100k,
+201400363,Discontinued,sanders3@cox.net,Yes,Casual Visitor,2016,942.46,$100-200k,Wine quality
+201400379,Discontinued,powell4@comcast.net,No,Luxury Estate,2016,556.35,$800-1200k,Prices too high
+201400385,Discontinued,smithl@google.com,No,Wine Enthusiast,2015,927.09,$200-400k,Not enough selection
+201400387,Discontinued,mcintyre3@me.com,No,Wine Enthusiast,2016,2642.07,$800-1200k,Staff not knowledgable
+201400406,Discontinued,c.adams@live.com,Yes,Wine Enthusiast,2016,1347.18,$200-400k,Staff not knowledgable
+201400409,Discontinued,harringtonb@googlemail.com,Yes,Casual Visitor,2015,167.55,$200-400k,Wine quality
+201400411,Discontinued,kclay@mac.com,No,Wine Enthusiast,2016,2896.13,$800-1200k,Wine quality
+201400413,Discontinued,jmartinez@verizon.net,Yes,Casual Visitor,2016,669.54,$200-400k,Prices too high
+201400415,Discontinued,r.moreno@cox.net,Yes,Casual Visitor,2016,633.46,$400-800k,Prices too high
+201400421,Discontinued,garciap@facebook.com,No,High Roller,2016,265.8,$400-800k,Poor service
+201400425,Discontinued,vmar59@bellsouth.net,Yes,Casual Visitor,2015,215.12,$400-800k,Prices too high
+201400428,Discontinued,brip65@googlemail.com,Yes,Casual Visitor,2015,628.26,$200-400k,Staff not knowledgable
+201400434,Discontinued,r.miller@googlemail.com,Yes,Casual Visitor,2016,550.66,$200-400k,Prices too high
+201400435,Discontinued,hopkins2@earthlink.net,Yes,Casual Visitor,2016,220.64,$200-400k,Prices too high
+201400449,Discontinued,j.knight@earthlink.net,Yes,Casual Visitor,2016,334.57,$100-200k,Prices too high
+201400459,Discontinued,marp58@verizon.net,Yes,Casual Visitor,2016,255.4,$200-400k,Poor service
+201400460,Discontinued,agon83@gmx.com,Yes,Casual Visitor,2016,470.11,Below $100k,Staff not knowledgable
+201400463,Discontinued,rosst@charter.net,Yes,Casual Visitor,2016,249.41,$200-400k,Prices too high
+201400472,Discontinued,abaxter@mac.com,Yes,Casual Visitor,2016,773.75,Below $100k,Prices too high
+201400485,Discontinued,hech27@mac.com,No,Wine Enthusiast,2014,889.64,$200-400k,Prices too high
+201400495,Discontinued,dsutton6@juno.com,No,Wine Enthusiast,2016,2614.1,$800-1200k,Not enough selection
+201400497,Discontinued,ernp32@gmail.com,No,Wine Enthusiast,2015,656.59,$1200-1800k,Staff not knowledgable
+201400502,Discontinued,efarmer@sbcglobal.net,No,Wine Enthusiast,2014,653.62,$1200-1800k,Staff not knowledgable
+201400506,Discontinued,slopez@msn.com,No,Wine Enthusiast,2016,786.96,$200-400k,Poor service
+201400514,Discontinued,j.bean@verizon.net,No,Wine Enthusiast,2015,894.39,$200-400k,Staff not knowledgable
+201400518,Discontinued,bhernandez4@google.com,No,Wine Enthusiast,2015,13738.37,Above $1800k,Not enough selection
+201400535,Discontinued,jbru55@yahoo.com,No,Wine Enthusiast,2016,801.53,$1200-1800k,Staff not knowledgable
+201400539,Discontinued,mjohnson4@gmail.com,Yes,Casual Visitor,2016,254.11,$200-400k,Prices too high
+201400541,Discontinued,estr38@facebook.com,Yes,Casual Visitor,2016,612.06,$100-200k,Staff not knowledgable
+201400542,Discontinued,mard57@gmx.com,Yes,Casual Visitor,2016,555.79,$200-400k,Prices too high
+201400544,Discontinued,ellisb@juno.com,Yes,Casual Visitor,2015,847.46,$200-400k,Prices too high
+201400550,Discontinued,k.reed@att.net,No,Wine Enthusiast,2015,149.25,$100-200k,Not enough selection
+201400552,Discontinued,eharris2@gmail.com,No,Wine Enthusiast,2016,752.53,$200-400k,Not enough selection
+201400568,Discontinued,kcox7@googlemail.com,No,Wine Enthusiast,2015,2953.32,$800-1200k,Staff not knowledgable
+201400575,Discontinued,gpacheco6@juno.com,Yes,Casual Visitor,2016,648.46,$200-400k,Prices too high
+201400583,Discontinued,lwest9@hotmail.com,Yes,Casual Visitor,2016,93.08,$200-400k,Staff not knowledgable
+201400592,Discontinued,freb12@comcast.net,Yes,Casual Visitor,2015,879.71,$400-800k,Wine quality
+201400595,Discontinued,bowers7@msn.com,Yes,Casual Visitor,2015,462.86,$200-400k,Prices too high
+201400615,Discontinued,dixonl@juno.com,Yes,Casual Visitor,2016,57.71,$100-200k,Prices too high
+201400622,Discontinued,mjon29@mail.com,Yes,Casual Visitor,2016,745.96,$100-200k,Prices too high
+201400623,Discontinued,harb11@charter.net,No,Wine Enthusiast,2016,826.45,$200-400k,Prices too high
+201400629,Discontinued,harringtonj@sbcglobal.net,No,Wine Enthusiast,2016,1056.9,$200-400k,Wine quality
+201400634,Discontinued,d.oconnell@bellsouth.net,Yes,Casual Visitor,2016,856.92,$200-400k,Prices too high
+201400649,Discontinued,t.gallegos@googlemail.com,Yes,Casual Visitor,2014,442.43,$100-200k,Prices too high
+201400657,Discontinued,bjohnson@cox.net,No,Wine Enthusiast,2015,712.17,$200-400k,Staff not knowledgable
+201400675,Discontinued,jfarrell@msn.com,Yes,Casual Visitor,2015,144.86,$400-800k,Poor service
+201400679,Discontinued,everettp@cox.net,Yes,Casual Visitor,2015,301.36,$100-200k,
+201400693,Discontinued,phillipsj@earthlink.net,No,Wine Enthusiast,2016,1992.65,$400-800k,Not enough selection
+201400694,Discontinued,kmckee@charter.net,No,Wine Enthusiast,2016,151.48,$100-200k,Staff not knowledgable
+201400697,Discontinued,warde@sbcglobal.net,Yes,Casual Visitor,2016,92.25,$200-400k,Not enough selection
+201400698,Discontinued,pearsonj@cox.net,Yes,Casual Visitor,2016,414.98,$200-400k,Staff not knowledgable
+201400699,Discontinued,nrobinson1@gmail.com,No,Wine Enthusiast,2016,745.87,$1200-1800k,
+201400708,Discontinued,rdow12@bellsouth.net,Yes,Casual Visitor,2015,363.75,$200-400k,Not enough selection
+201400723,Discontinued,skinnerf@sbcglobal.net,No,Wine Enthusiast,2015,846.3,$200-400k,Staff not knowledgable
+201400741,Discontinued,elih82@bellsouth.net,Yes,Casual Visitor,2016,255.19,$200-400k,
+201400744,Discontinued,magm60@me.com,Yes,Casual Visitor,2016,214.14,Below $100k,Wine quality
+201400745,Discontinued,kria11@mac.com,Yes,Casual Visitor,2016,764.03,$400-800k,Wine quality
+201400748,Discontinued,lste58@mail.com,Yes,Casual Visitor,2016,255.17,$200-400k,Prices too high
+201400749,Discontinued,wagnerv@cox.net,Yes,Casual Visitor,2016,122.43,$200-400k,Prices too high
+201400753,Discontinued,ivah36@googlemail.com,Yes,Casual Visitor,2016,788.46,$200-400k,Staff not knowledgable
+201400756,Discontinued,wfri74@cox.net,No,Wine Enthusiast,2016,2346,$400-800k,Staff not knowledgable
+201400760,Discontinued,hayden2@mail.com,No,Wine Enthusiast,2016,2114.72,$400-800k,Not enough selection
+201400761,Discontinued,sbow52@mail.com,No,Wine Enthusiast,2014,2864.94,$800-1200k,Not enough selection
+201400764,Discontinued,gsha71@verizon.net,No,Wine Enthusiast,2016,103.04,$100-200k,Staff not knowledgable
+201400766,Discontinued,rossm@google.com,Yes,Casual Visitor,2016,148.48,$200-400k,Prices too high
+201400770,Discontinued,awinters2@bellsouth.net,Yes,Casual Visitor,2016,242.66,$200-400k,Prices too high
+201400791,Discontinued,alis34@aol.com,Yes,Casual Visitor,2016,97.32,$200-400k,Prices too high
+201400804,Discontinued,jamh3@gmx.com,Yes,Casual Visitor,2014,744.09,$100-200k,Prices too high
+201400811,Discontinued,stewart9@earthlink.net,Yes,Casual Visitor,2015,576.96,$400-800k,Staff not knowledgable
+201400813,Discontinued,pricea@verizon.net,Yes,Casual Visitor,2016,311.05,$200-400k,Poor service
+201400824,Discontinued,r.sanchez@yahoo.com,Yes,Casual Visitor,2016,435.17,$100-200k,Prices too high
+201400826,Discontinued,clee8@verizon.net,No,Wine Enthusiast,2016,2110.38,$400-800k,Poor service
+201400832,Discontinued,campbell8@mail.com,Yes,Casual Visitor,2014,319.64,$400-800k,Prices too high
+201400833,Discontinued,lwiggins@aol.com,No,Wine Enthusiast,2016,1868.27,$200-400k,Not enough selection
+201400847,Discontinued,s.jackson@charter.net,No,Wine Enthusiast,2016,1078.66,$200-400k,Not enough selection
+201400854,Discontinued,bcla12@mail.com,No,Wine Enthusiast,2016,1849.74,$200-400k,Not enough selection
+201400856,Discontinued,tabw68@verizon.net,Yes,Casual Visitor,2014,322.51,$200-400k,Prices too high
+201400873,Discontinued,e.cox@hotmail.com,Yes,Casual Visitor,2016,464.24,Below $100k,Wine quality
+201400876,Discontinued,rhicks4@bellsouth.net,No,Wine Enthusiast,2016,2108.99,$400-800k,Not enough selection
+201400881,Discontinued,robinson1@sbcglobal.net,Yes,Wine Enthusiast,2016,606.01,$1200-1800k,Staff not knowledgable
+201400883,Discontinued,rcarr@cox.net,Yes,Casual Visitor,2016,342.62,$400-800k,Not enough selection
+201400888,Discontinued,rjon85@mail.com,No,High Roller,2016,370.77,$400-800k,Poor service
+201400890,Discontinued,kgil86@earthlink.net,No,Wine Enthusiast,2014,1038.44,$200-400k,Staff not knowledgable
+201400892,Discontinued,perezt@google.com,Yes,Casual Visitor,2015,320.59,$100-200k,Prices too high
+201400893,Discontinued,kcrane@verizon.net,No,Wine Enthusiast,2016,2049.13,$400-800k,Poor service
+201400897,Discontinued,jones5@mail.com,Yes,Casual Visitor,2016,928.16,$200-400k,
+201400905,Discontinued,dsmith1@hotmail.com,Yes,Casual Visitor,2016,249.56,$200-400k,Poor service
+201400911,Discontinued,agray@juno.com,Yes,Casual Visitor,2016,312.89,$100-200k,Poor service
+201400913,Discontinued,nandrade@att.net,Yes,Casual Visitor,2016,322.72,$200-400k,Wine quality
+201400916,Discontinued,lwarner4@googlemail.com,Yes,Casual Visitor,2016,107.4,Below $100k,Prices too high
+201400917,Discontinued,msmith7@live.com,No,Wine Enthusiast,2016,12976.66,Above $1800k,Staff not knowledgable
+201400922,Discontinued,cdav85@earthlink.net,Yes,Casual Visitor,2016,513.18,$200-400k,Prices too high
+201400930,Discontinued,natw32@charter.net,No,Luxury Estate,2016,988.95,$400-800k,Not enough selection
+201400936,Discontinued,morrow2@bellsouth.net,Yes,Casual Visitor,2016,1576.04,Below $100k,Prices too high
+201400943,Discontinued,thof20@juno.com,Yes,Casual Visitor,2016,456.35,$200-400k,Prices too high
+201400949,Discontinued,rlong2@aol.com,No,Wine Enthusiast,2016,1650.99,$200-400k,Not enough selection
+201400959,Discontinued,g.patel@sbcglobal.net,Yes,Casual Visitor,2016,260.99,$400-800k,Not enough selection
+201400963,Discontinued,lopez2@googlemail.com,Yes,Casual Visitor,2015,330.42,$100-200k,Poor service
+201400972,Discontinued,judn28@mac.com,No,Wine Enthusiast,2015,805.88,$200-400k,Not enough selection
+201400973,Discontinued,p.manning@hotmail.com,No,Wine Enthusiast,2016,39371.72,Above $1800k,Not enough selection
+201400978,Discontinued,pmanning@msn.com,Yes,Casual Visitor,2016,265.01,$100-200k,Poor service
+201400988,Discontinued,blynn@gmail.com,Yes,Casual Visitor,2015,1259.29,$200-400k,Wine quality
+201400992,Discontinued,kirn73@juno.com,No,Wine Enthusiast,2016,1692.31,$200-400k,Staff not knowledgable
+201500013,Discontinued,kcox4@verizon.net,No,Wine Enthusiast,2016,2341.46,$400-800k,Not enough selection
+201500016,Discontinued,bailey9@msn.com,No,Wine Enthusiast,2016,689.75,$1200-1800k,Staff not knowledgable
+201500019,Discontinued,tbel39@verizon.net,Yes,Casual Visitor,2016,224.18,$200-400k,Prices too high
+201500029,Discontinued,wilson4@googlemail.com,No,Wine Enthusiast,2016,1024.12,$200-400k,Staff not knowledgable
+201500033,Discontinued,c.sanchez@facebook.com,No,Wine Enthusiast,2016,2366.78,$400-800k,
+201500037,Discontinued,millera@charter.net,Yes,Casual Visitor,2016,348.12,$200-400k,Staff not knowledgable
+201500041,Discontinued,jenkins5@att.net,No,Wine Enthusiast,2016,266.43,$100-200k,Not enough selection
+201500048,Discontinued,mavery6@bellsouth.net,Yes,Casual Visitor,2016,161.81,$400-800k,Not enough selection
+201500063,Discontinued,aray1@hotmail.com,Yes,Casual Visitor,2016,117.99,Below $100k,Prices too high
+201500094,Discontinued,kwil28@att.net,No,Luxury Estate,2015,304.04,$400-800k,Staff not knowledgable
+201500099,Discontinued,jturner8@sbcglobal.net,No,Wine Enthusiast,2016,2396.35,$400-800k,
+201500105,Discontinued,mjoh12@aol.com,No,Wine Enthusiast,2016,2942.48,$800-1200k,Not enough selection
+201500136,Discontinued,jacobsl@google.com,No,High Roller,2016,487.74,$400-800k,Poor service
+201500137,Discontinued,rest84@msn.com,No,Wine Enthusiast,2016,1439.83,$200-400k,Staff not knowledgable
+201500148,Discontinued,srodriguez2@msn.com,No,Wine Enthusiast,2016,25947.97,Above $1800k,Staff not knowledgable
+201500151,Discontinued,pestrada3@verizon.net,No,Wine Enthusiast,2015,286.04,$100-200k,Staff not knowledgable
+201500159,Discontinued,jamest@mail.com,Yes,Casual Visitor,2016,743.44,$200-400k,Not enough selection
+201500160,Discontinued,alopez@yahoo.com,Yes,Casual Visitor,2016,346.59,$200-400k,Wine quality
+201500167,Discontinued,rchoi7@yahoo.com,No,Wine Enthusiast,2016,3657.72,$800-1200k,Not enough selection
+201500170,Discontinued,huber8@hotmail.com,No,Wine Enthusiast,2016,1862.38,$200-400k,Not enough selection
+201500174,Discontinued,carroll1@me.com,No,Wine Enthusiast,2016,590.39,$100-200k,Not enough selection
+201500187,Discontinued,kriggs@msn.com,No,Wine Enthusiast,2015,1545.9,$200-400k,Not enough selection
+201500193,Discontinued,garcias@live.com,Yes,Casual Visitor,2016,319.57,$200-400k,Staff not knowledgable
+201500207,Discontinued,eroy1@me.com,No,Wine Enthusiast,2016,962.01,$1200-1800k,
+201500211,Discontinued,marg95@juno.com,No,Wine Enthusiast,2015,8018.01,$800-1200k,
+201500225,Discontinued,ffor18@mac.com,Yes,Casual Visitor,2016,306.04,$200-400k,Prices too high
+201500226,Discontinued,loud45@cox.net,Yes,Casual Visitor,2016,85.12,$200-400k,Not enough selection
+201500237,Discontinued,brown5@earthlink.net,No,Wine Enthusiast,2016,47111.62,Above $1800k,Staff not knowledgable
+201500242,Discontinued,cantus@juno.com,Yes,Casual Visitor,2016,116.93,Below $100k,Prices too high
+201500248,Discontinued,foleyt@msn.com,Yes,Casual Visitor,2015,176.03,$200-400k,Prices too high
+201500257,Discontinued,m.clark@me.com,No,Wine Enthusiast,2016,2262.77,$400-800k,Not enough selection
+201500265,Discontinued,sims5@sbcglobal.net,Yes,Casual Visitor,2016,494.06,$400-800k,
+201500273,Discontinued,torresd@charter.net,No,Wine Enthusiast,2016,306.56,$100-200k,Not enough selection
+201500276,Discontinued,m.rodriguez@hotmail.com,No,Wine Enthusiast,2016,19421.64,Above $1800k,Staff not knowledgable
+201500278,Discontinued,djimenez9@live.com,Yes,Casual Visitor,2016,72.96,$200-400k,Prices too high
+201500286,Discontinued,salm69@verizon.net,No,Wine Enthusiast,2016,2022.88,$200-400k,Poor service
+201500294,Discontinued,r.blanchard@google.com,Yes,Casual Visitor,2016,448.35,$200-400k,Not enough selection
+201500299,Discontinued,char41@mail.com,Yes,Casual Visitor,2016,93.05,$200-400k,Staff not knowledgable
+201500320,Discontinued,echa66@juno.com,Yes,Casual Visitor,2015,434.33,$400-800k,Poor service
+201500328,Discontinued,r.turner@live.com,Yes,Casual Visitor,2016,2195.61,$200-400k,Not enough selection
+201500335,Discontinued,brodriguez@earthlink.net,Yes,Casual Visitor,2016,74.18,$400-800k,Poor service
+201500346,Discontinued,ecla89@verizon.net,No,Wine Enthusiast,2015,3568.37,$800-1200k,Staff not knowledgable
+201500348,Discontinued,jeaa66@sbcglobal.net,Yes,Casual Visitor,2016,743.04,$200-400k,Prices too high
+201500350,Discontinued,tsmi69@gmail.com,Yes,Casual Visitor,2016,565.53,$400-800k,Staff not knowledgable
+201500372,Discontinued,m.johnson@aol.com,No,Wine Enthusiast,2016,22882.78,Above $1800k,Staff not knowledgable
+201500381,Discontinued,johw7@live.com,No,Wine Enthusiast,2016,2459.12,$400-800k,Staff not knowledgable
+201500384,Discontinued,ajohnson@verizon.net,No,Wine Enthusiast,2015,1581.38,$200-400k,Not enough selection
+201500390,Discontinued,paul6@comcast.net,No,Wine Enthusiast,2016,210.37,$100-200k,Staff not knowledgable
+201500396,Discontinued,b.chapman@gmx.com,Yes,Casual Visitor,2016,261.44,$200-400k,Poor service
+201500398,Discontinued,j.garrett@cox.net,Yes,Casual Visitor,2016,308.99,$400-800k,Poor service
+201500401,Discontinued,odonnellm@aol.com,Yes,Casual Visitor,2016,170.01,$200-400k,Prices too high
+201500402,Discontinued,allen4@hotmail.com,Yes,Casual Visitor,2016,773.32,$100-200k,Poor service
+201500445,Discontinued,tannerp@comcast.net,Yes,Casual Visitor,2016,243.7,$200-400k,Prices too high
+201500466,Discontinued,agon41@cox.net,Yes,Casual Visitor,2016,377.99,Below $100k,Wine quality
+201500478,Discontinued,jbel1@earthlink.net,Yes,Casual Visitor,2016,395.51,Below $100k,Prices too high
+201500481,Discontinued,ykennedy@mac.com,Yes,Casual Visitor,2016,1195.13,$100-200k,Poor service
+201500488,Discontinued,i.dillon@aol.com,Yes,Casual Visitor,2016,1266.78,$200-400k,Prices too high
+201500489,Discontinued,gonzalesl@msn.com,Yes,Casual Visitor,2016,237.22,$200-400k,Prices too high
+201500491,Discontinued,hhug41@gmail.com,Yes,Casual Visitor,2016,171.74,$200-400k,Poor service
+201500492,Discontinued,knorman5@me.com,Yes,Casual Visitor,2016,549.39,$200-400k,Poor service
+201500501,Discontinued,dvelez8@me.com,Yes,Casual Visitor,2016,343.6,Below $100k,Prices too high
+201500509,Discontinued,kellers@live.com,No,Wine Enthusiast,2016,687.15,$100-200k,Poor service
+201500512,Discontinued,thomast@me.com,No,Wine Enthusiast,2016,2592.71,$400-800k,Staff not knowledgable
+201500536,Discontinued,estb97@bellsouth.net,No,Wine Enthusiast,2016,616.1,$100-200k,Staff not knowledgable
+201500547,Discontinued,tgraham@att.net,Yes,Casual Visitor,2016,816.81,$400-800k,
+201500552,Discontinued,dcla61@charter.net,No,Wine Enthusiast,2016,3248.92,$800-1200k,Not enough selection
+201500569,Discontinued,mhob68@facebook.com,Yes,Casual Visitor,2015,136.29,$200-400k,Prices too high
+201500593,Discontinued,aguilar5@mail.com,Yes,Casual Visitor,2016,950.63,$400-800k,Staff not knowledgable
+201500605,Discontinued,youngr@google.com,Yes,Casual Visitor,2016,623.78,$100-200k,Staff not knowledgable
+201500636,Discontinued,lpar28@earthlink.net,No,Wine Enthusiast,2016,1777.18,$200-400k,Staff not knowledgable
+201500637,Discontinued,jonesj@live.com,Yes,Casual Visitor,2016,81.41,$200-400k,Prices too high
+201500647,Discontinued,carrr@google.com,No,Wine Enthusiast,2015,2701.19,$400-800k,Staff not knowledgable
+201500648,Discontinued,jmiller@facebook.com,Yes,Casual Visitor,2015,329.78,$200-400k,Not enough selection
+201500652,Discontinued,wardt@google.com,Yes,Casual Visitor,2016,84.34,$400-800k,Prices too high
+201500654,Discontinued,schultz8@live.com,No,Wine Enthusiast,2016,2291.46,$400-800k,Not enough selection
+201500663,Discontinued,b.moore@mac.com,No,Wine Enthusiast,2016,2436.95,$400-800k,Staff not knowledgable
+201500667,Discontinued,shaw5@aol.com,Yes,Casual Visitor,2015,179.3,$100-200k,Prices too high
+201500677,Discontinued,hayese@live.com,No,Wine Enthusiast,2016,543.26,$100-200k,Staff not knowledgable
+201500681,Discontinued,lils71@gmail.com,Yes,Wine Enthusiast,2016,3632.32,$800-1200k,Staff not knowledgable
+201500685,Discontinued,ssul98@att.net,Yes,Casual Visitor,2016,277.31,$200-400k,Prices too high
+201500686,Discontinued,fraf87@gmail.com,No,Wine Enthusiast,2016,692.77,$100-200k,Staff not knowledgable
+201500688,Discontinued,rsanders6@yahoo.com,No,High Roller,2015,400.65,$400-800k,Poor service
+201500714,Discontinued,hmcdaniel@live.com,Yes,Casual Visitor,2016,112.68,$200-400k,
+201500724,Discontinued,willisb@mac.com,No,Wine Enthusiast,2015,3633.18,$800-1200k,
+201500725,Discontinued,dmorris2@hotmail.com,Yes,Casual Visitor,2016,254.26,$200-400k,
+201500727,Discontinued,oneilll@gmail.com,No,High Roller,2015,284.21,$800-1200k,Poor service
+201500736,Discontinued,jenr16@gmx.com,Yes,Casual Visitor,2016,961.07,$200-400k,Prices too high
+201500755,Discontinued,ross6@google.com,Yes,Casual Visitor,2016,210.13,$200-400k,Prices too high
+201500756,Discontinued,k.carlson@bellsouth.net,No,Wine Enthusiast,2015,1569.74,$200-400k,Not enough selection
+201500757,Discontinued,r.allen@charter.net,No,Wine Enthusiast,2016,319.19,$100-200k,Staff not knowledgable
+201500758,Discontinued,turner6@bellsouth.net,Yes,Casual Visitor,2015,1158.8,$100-200k,Prices too high
+201500764,Discontinued,d.mcdonald@me.com,Yes,Casual Visitor,2015,783.74,$100-200k,Wine quality
+201500766,Discontinued,jbsullivan@yahoo.com,Yes,Casual Visitor,2015,180.16,$200-400k,Staff not knowledgable
+201500768,Discontinued,d.bailey@earthlink.net,No,Wine Enthusiast,2016,40971.2,Above $1800k,Staff not knowledgable
+201500769,Discontinued,gusr86@bellsouth.net,No,Wine Enthusiast,2016,1744.34,$200-400k,Staff not knowledgable
+201500771,Discontinued,kcuevas4@cox.net,Yes,Casual Visitor,2016,792.36,$200-400k,Prices too high
+201500783,Discontinued,hwilcox9@juno.com,Yes,Casual Visitor,2016,247.43,Below $100k,Prices too high
+201500784,Discontinued,efre68@yahoo.com,Yes,Casual Visitor,2016,911.5,$200-400k,Prices too high
+201500788,Discontinued,smcdaniel5@live.com,No,Wine Enthusiast,2016,1733.1,$200-400k,Staff not knowledgable
+201500797,Discontinued,nguyenm@google.com,Yes,Casual Visitor,2016,595.96,$200-400k,
+201500810,Discontinued,b.henry@mac.com,Yes,Casual Visitor,2015,335.49,$100-200k,Poor service
+201500812,Discontinued,sloanj@earthlink.net,Yes,Casual Visitor,2016,511.97,$200-400k,Prices too high
+201500813,Discontinued,dgar81@bellsouth.net,Yes,Casual Visitor,2016,356.3,$200-400k,Prices too high
+201500816,Discontinued,rogersm@comcast.net,Yes,Casual Visitor,2016,599.6,$200-400k,Prices too high
+201500823,Discontinued,lbernard@gmail.com,No,Wine Enthusiast,2015,695.62,$1200-1800k,Staff not knowledgable
+201500826,Discontinued,williamsm@yahoo.com,No,Wine Enthusiast,2016,827.53,$1200-1800k,Not enough selection
+201500835,Discontinued,i.luna@comcast.net,No,Luxury Estate,2015,605.3,$400-800k,Wine quality
+201500876,Discontinued,r.chen@gmail.com,Yes,Casual Visitor,2016,325.87,$100-200k,Prices too high
+201500880,Discontinued,jbailey@msn.com,Yes,Casual Visitor,2016,172.64,$400-800k,Prices too high
+201500900,Discontinued,rtho38@verizon.net,Yes,Casual Visitor,2016,761.12,$200-400k,Poor service
+201500906,Discontinued,aramirez9@bellsouth.net,No,Wine Enthusiast,2016,3287.23,$800-1200k,Staff not knowledgable
+201500913,Discontinued,mhol37@yahoo.com,No,Wine Enthusiast,2016,1974.14,$200-400k,Not enough selection
+201500918,Discontinued,jhubbard@sbcglobal.net,Yes,Casual Visitor,2016,116.87,Below $100k,Wine quality
+201500940,Discontinued,bzimmerman@att.net,Yes,Casual Visitor,2016,445.95,$400-800k,Prices too high
+201500948,Discontinued,tgar27@facebook.com,Yes,Casual Visitor,2016,683.34,$400-800k,Prices too high
+201500963,Discontinued,cguerrero4@gmail.com,Yes,Casual Visitor,2016,367.38,$200-400k,Staff not knowledgable
+201500964,Discontinued,bwyatt4@hotmail.com,No,Wine Enthusiast,2016,1032.86,$200-400k,
+201500976,Discontinued,j.dennis@msn.com,No,Wine Enthusiast,2016,1168.86,$200-400k,Staff not knowledgable
+201500994,Discontinued,beck2@msn.com,No,Wine Enthusiast,2015,46832.53,Above $1800k,Wine quality
+201500995,Discontinued,leblanck@live.com,No,Wine Enthusiast,2016,1097.03,$200-400k,Prices too high
+201501001,Discontinued,karh85@verizon.net,Yes,Casual Visitor,2016,549.87,$200-400k,
+201501007,Discontinued,lrodriguez6@me.com,No,Wine Enthusiast,2016,226.26,$100-200k,Staff not knowledgable
+201501009,Discontinued,lcook@sbcglobal.net,No,Wine Enthusiast,2015,982.23,$200-400k,Prices too high
+201501032,Discontinued,l.riley@yahoo.com,Yes,Wine Enthusiast,2016,1783.3,$200-400k,Staff not knowledgable
+201501039,Discontinued,tylerr@mac.com,No,Wine Enthusiast,2016,1361.11,$200-400k,Staff not knowledgable
+201501043,Discontinued,ellison4@aol.com,Yes,Casual Visitor,2016,581.91,$400-800k,Not enough selection
+201501046,Discontinued,carroll6@juno.com,Yes,Casual Visitor,2016,785.64,$200-400k,Staff not knowledgable
+201501063,Discontinued,wise9@mail.com,No,High Roller,2016,519.1,$400-800k,
+201501064,Discontinued,wngu92@att.net,Yes,Casual Visitor,2016,1897.32,$200-400k,Not enough selection
+201501066,Discontinued,p.morgan@yahoo.com,No,Wine Enthusiast,2016,21740.39,Above $1800k,Staff not knowledgable
+201501070,Discontinued,jkelley7@live.com,No,Wine Enthusiast,2016,312.3,$100-200k,Staff not knowledgable
+201501079,Discontinued,robm16@earthlink.net,Yes,Casual Visitor,2016,62.52,$200-400k,Prices too high
+201501082,Discontinued,hunters@mac.com,No,Wine Enthusiast,2016,22430.47,Above $1800k,Staff not knowledgable
+201501085,Discontinued,l.kerr@gmail.com,Yes,Casual Visitor,2015,403.45,$100-200k,Prices too high
+201501092,Discontinued,cmoore6@verizon.net,Yes,Casual Visitor,2016,622.28,$200-400k,Prices too high
+201501093,Discontinued,cvalentine5@verizon.net,No,Wine Enthusiast,2016,1535.76,$200-400k,Staff not knowledgable
+201501099,Discontinued,yang9@googlemail.com,Yes,High Roller,2016,168.6,$1200-1800k,Poor service
+201501106,Discontinued,l.brown@gmail.com,No,Wine Enthusiast,2015,963.24,$200-400k,Staff not knowledgable
+201501107,Discontinued,s.johnson@att.net,No,High Roller,2016,459.54,$400-800k,Poor service
+201501126,Discontinued,mgon6@google.com,No,Wine Enthusiast,2016,881.27,$200-400k,Prices too high
+201501130,Discontinued,j.valenzuela@cox.net,Yes,Casual Visitor,2016,177.42,$100-200k,Staff not knowledgable
+201501145,Discontinued,rusr50@charter.net,Yes,Casual Visitor,2015,333.61,$200-400k,Staff not knowledgable
+201501158,Discontinued,richards7@msn.com,No,Wine Enthusiast,2016,1257.49,$200-400k,Staff not knowledgable
+201501171,Discontinued,aolson@cox.net,Yes,Casual Visitor,2016,632.02,$100-200k,Prices too high
+201501175,Discontinued,vicw47@msn.com,Yes,Casual Visitor,2016,1815.38,$200-400k,Prices too high
+201501178,Discontinued,sbutler3@charter.net,No,Wine Enthusiast,2016,2585.91,$400-800k,Not enough selection
+201501179,Discontinued,jtho11@charter.net,Yes,Casual Visitor,2016,165.63,Below $100k,Not enough selection
+201501196,Discontinued,jperez5@aol.com,No,Wine Enthusiast,2015,3117.65,$800-1200k,Staff not knowledgable
+201501200,Discontinued,douglasr@juno.com,Yes,Casual Visitor,2015,589.96,$400-800k,Not enough selection
+201501204,Discontinued,clewis@comcast.net,No,Wine Enthusiast,2016,3212.19,$800-1200k,Staff not knowledgable
+201501205,Discontinued,cols39@live.com,Yes,Casual Visitor,2016,239.44,$100-200k,Prices too high
+201501206,Discontinued,thop9@gmail.com,Yes,Casual Visitor,2016,703,$200-400k,Prices too high
+201501212,Discontinued,bruceb@gmx.com,No,Wine Enthusiast,2016,701.75,$1200-1800k,Not enough selection
+201501214,Discontinued,evargas4@google.com,No,Wine Enthusiast,2016,224.07,$100-200k,Staff not knowledgable
+201501218,Discontinued,frazier6@cox.net,Yes,Casual Visitor,2015,261.29,$100-200k,Staff not knowledgable
+201501222,Discontinued,l.sims@sbcglobal.net,Yes,Casual Visitor,2015,629.29,Below $100k,Prices too high
+201501225,Discontinued,baird1@verizon.net,No,Wine Enthusiast,2016,756.32,$1200-1800k,Not enough selection
+201501229,Discontinued,hollandc@charter.net,Yes,Casual Visitor,2016,147.11,Below $100k,
+201501247,Discontinued,edww22@sbcglobal.net,Yes,Casual Visitor,2016,649.27,$400-800k,Prices too high
+201501248,Discontinued,ktorres7@google.com,Yes,Casual Visitor,2016,1651.27,Below $100k,Staff not knowledgable
+201501264,Discontinued,marh74@live.com,Yes,Casual Visitor,2016,580.76,$400-800k,Prices too high
+201501277,Discontinued,denf80@bellsouth.net,No,Wine Enthusiast,2016,1768.61,$200-400k,Staff not knowledgable
+201501282,Discontinued,tmoon2@juno.com,No,Wine Enthusiast,2016,7058.25,$800-1200k,Poor service
+201501294,Discontinued,davs70@verizon.net,Yes,Casual Visitor,2016,684.45,$100-200k,Wine quality
+201501302,Discontinued,jgonzalez9@gmx.com,Yes,Casual Visitor,2016,238.58,$100-200k,Wine quality
+201501328,Discontinued,h.williams@googlemail.com,Yes,Wine Enthusiast,2015,2641.29,$400-800k,Prices too high
+201501332,Discontinued,jacksonj@verizon.net,No,Wine Enthusiast,2016,1383.68,$200-400k,Not enough selection
+201501335,Discontinued,goliver8@juno.com,Yes,Casual Visitor,2016,82.03,$100-200k,Prices too high
+201501354,Discontinued,kimr@googlemail.com,Yes,Casual Visitor,2016,1772.16,$100-200k,Prices too high
+201501356,Discontinued,hers28@comcast.net,Yes,Casual Visitor,2016,101.97,$100-200k,
+201501360,Discontinued,sbowman3@mac.com,Yes,Casual Visitor,2016,198.35,Below $100k,Wine quality
+201501362,Discontinued,igra97@att.net,Yes,Casual Visitor,2016,684.08,$100-200k,Staff not knowledgable
+201501375,Discontinued,ewil82@charter.net,Yes,Casual Visitor,2016,840.47,Below $100k,Prices too high
+201501378,Discontinued,terc31@me.com,No,Wine Enthusiast,2016,2477.51,$400-800k,Staff not knowledgable
+201501381,Discontinued,hunt5@gmail.com,No,Wine Enthusiast,2016,550.01,$100-200k,Not enough selection
+201501389,Discontinued,mmiller@cox.net,No,Wine Enthusiast,2015,1450.53,$200-400k,
+201501391,Discontinued,l.porter@sbcglobal.net,Yes,Casual Visitor,2015,66.82,$200-400k,Wine quality
+201501394,Discontinued,mbraun9@mac.com,Yes,Casual Visitor,2016,130.54,$200-400k,Prices too high
+201501414,Discontinued,rsch34@cox.net,No,Wine Enthusiast,2016,1983.55,$200-400k,Wine quality
+201501420,Discontinued,abaker5@me.com,Yes,Casual Visitor,2016,80.26,$100-200k,
+201501426,Discontinued,c.miller@me.com,Yes,Casual Visitor,2016,1674.67,$200-400k,Staff not knowledgable
+201501430,Discontinued,l.baker@facebook.com,No,Wine Enthusiast,2015,980.26,$200-400k,Staff not knowledgable
+201501433,Discontinued,pierce6@bellsouth.net,No,Wine Enthusiast,2016,1616.45,$200-400k,Staff not knowledgable
+201501441,Discontinued,patr84@mac.com,Yes,Casual Visitor,2016,288.6,$100-200k,
+201501442,Discontinued,swhi46@googlemail.com,No,Wine Enthusiast,2016,2353.57,$400-800k,Staff not knowledgable
+201501443,Discontinued,hcla45@me.com,Yes,Casual Visitor,2016,740.46,$200-400k,Prices too high
+201501462,Discontinued,robw58@att.net,Yes,Wine Enthusiast,2016,1020.41,$200-400k,Not enough selection
+201501464,Discontinued,lthompson@me.com,Yes,Casual Visitor,2015,70.32,$400-800k,Prices too high
+201501466,Discontinued,d.figueroa@mail.com,No,High Roller,2016,480.8,$800-1200k,Poor service
+201501481,Discontinued,katc59@aol.com,No,Wine Enthusiast,2016,1740.21,$200-400k,Staff not knowledgable
+201501497,Discontinued,lynw9@google.com,No,Wine Enthusiast,2016,1656.01,$200-400k,Staff not knowledgable
+201501520,Discontinued,kmur39@gmail.com,Yes,Casual Visitor,2016,279.15,$400-800k,Not enough selection
+201501534,Discontinued,jher71@google.com,Yes,Casual Visitor,2016,931.14,$100-200k,Wine quality
+201501536,Discontinued,jram94@hotmail.com,Yes,Casual Visitor,2016,1261.69,$200-400k,Not enough selection
+201501537,Discontinued,thompsona@aol.com,Yes,Casual Visitor,2016,508.58,$200-400k,Prices too high
+201501551,Discontinued,virv29@verizon.net,No,Wine Enthusiast,2016,21156.14,Above $1800k,Not enough selection
+201501552,Discontinued,mcgrath7@gmx.com,Yes,Casual Visitor,2015,1083.78,$200-400k,Poor service
+201501575,Discontinued,pruiz3@cox.net,Yes,Casual Visitor,2016,1388.19,$100-200k,Prices too high
+201501577,Discontinued,sstephens5@bellsouth.net,No,Wine Enthusiast,2016,1119.81,$200-400k,Prices too high
+201501580,Discontinued,mhen91@msn.com,Yes,Casual Visitor,2016,187.71,$200-400k,Not enough selection
+201501583,Discontinued,loganm@gmail.com,Yes,Wine Enthusiast,2016,1163.73,$200-400k,
+201501586,Discontinued,kmunoz@yahoo.com,No,Wine Enthusiast,2016,2490.56,$400-800k,Prices too high
+201501601,Discontinued,jmccall@bellsouth.net,Yes,Casual Visitor,2016,169.44,Below $100k,
+201501607,Discontinued,r.hubbard@cox.net,Yes,Casual Visitor,2016,484.15,$200-400k,Wine quality
+201501611,Discontinued,mglover@earthlink.net,No,Wine Enthusiast,2016,1324.36,$200-400k,Staff not knowledgable
+201501620,Discontinued,watkins1@sbcglobal.net,Yes,Casual Visitor,2015,186.41,$200-400k,Wine quality
+201501626,Discontinued,bailey1@msn.com,Yes,Casual Visitor,2016,313.23,$200-400k,Prices too high
+201501627,Discontinued,k.rodriguez@google.com,Yes,Casual Visitor,2016,121.33,$200-400k,Wine quality
+201501629,Discontinued,j.cortez@google.com,Yes,Casual Visitor,2015,693.04,$400-800k,Wine quality
+201501630,Discontinued,sarr62@charter.net,Yes,Casual Visitor,2016,402.27,$200-400k,Prices too high
+201501642,Discontinued,dnoble@verizon.net,Yes,Casual Visitor,2016,568.17,$100-200k,Staff not knowledgable
+201501646,Discontinued,lbrennan@facebook.com,Yes,Casual Visitor,2016,71.75,$400-800k,Prices too high
+201501662,Discontinued,lawsonh@cox.net,Yes,Casual Visitor,2016,429.42,$400-800k,Prices too high
+201501670,Discontinued,tpie77@charter.net,Yes,Casual Visitor,2016,333.83,Below $100k,Not enough selection
+201501678,Discontinued,bbaird@live.com,Yes,Casual Visitor,2016,88.94,$400-800k,Wine quality
+201501689,Discontinued,cox6@me.com,No,High Roller,2016,292.04,$400-800k,Not enough selection
+201501694,Discontinued,jcan11@sbcglobal.net,Yes,Casual Visitor,2016,596.65,$200-400k,Not enough selection
+201501700,Discontinued,genf75@mail.com,No,Wine Enthusiast,2016,20418.72,Above $1800k,Not enough selection
+201501713,Discontinued,kellyp@gmx.com,No,High Roller,2016,306.13,$400-800k,Wine quality
+201501718,Discontinued,andersen3@charter.net,Yes,Casual Visitor,2016,302.09,$200-400k,Prices too high
+201501725,Discontinued,c.pope@juno.com,Yes,Casual Visitor,2016,216.86,$100-200k,
+201501731,Discontinued,a.taylor@earthlink.net,Yes,Casual Visitor,2016,195,$200-400k,Prices too high
+201501736,Discontinued,mcfarland8@cox.net,Yes,Casual Visitor,2016,386.9,$200-400k,Staff not knowledgable
+201501738,Discontinued,ediaz@gmail.com,No,Wine Enthusiast,2015,310.25,$100-200k,Staff not knowledgable
+201501741,Discontinued,micg73@mail.com,Yes,Casual Visitor,2016,202.64,Below $100k,
+201501742,Discontinued,savb78@msn.com,Yes,Casual Visitor,2016,1060,$200-400k,Poor service
+201501761,Discontinued,kdavidson@verizon.net,Yes,Casual Visitor,2016,566.6,$100-200k,Wine quality
+201501770,Discontinued,georgeh@earthlink.net,Yes,Casual Visitor,2016,730.89,$100-200k,Prices too high
+201501783,Discontinued,allison1@me.com,No,Wine Enthusiast,2016,1913.47,$200-400k,Wine quality
+201501791,Discontinued,mhamilton@verizon.net,No,High Roller,2016,400.22,$400-800k,Poor service
+201501807,Discontinued,npierce8@comcast.net,Yes,Casual Visitor,2016,880.6,$400-800k,Wine quality
+201501809,Discontinued,emil78@facebook.com,Yes,Casual Visitor,2016,739.78,$100-200k,Prices too high
+201501835,Discontinued,gvillanueva@gmail.com,Yes,Casual Visitor,2016,172.12,Below $100k,Prices too high
+201501839,Discontinued,eolson3@bellsouth.net,Yes,Casual Visitor,2016,355.11,$200-400k,Wine quality
+201501844,Discontinued,regn66@juno.com,No,Wine Enthusiast,2016,1343.77,$200-400k,Staff not knowledgable
+201501853,Discontinued,marg46@google.com,No,Wine Enthusiast,2015,914.4,$1200-1800k,Not enough selection
+201501865,Discontinued,holmesm@facebook.com,No,Wine Enthusiast,2016,419.4,$100-200k,Staff not knowledgable
+201501875,Discontinued,j.jones@att.net,No,Wine Enthusiast,2015,628.6,$100-200k,Staff not knowledgable
+201501893,Discontinued,vasquez5@msn.com,Yes,Casual Visitor,2016,111.01,$400-800k,Not enough selection
+201501898,Discontinued,v.sawyer@facebook.com,No,Wine Enthusiast,2016,2207.6,$200-400k,Staff not knowledgable
+201501910,Discontinued,lruiz6@mac.com,Yes,Casual Visitor,2016,404.12,$200-400k,Poor service
+201501919,Discontinued,rhun57@googlemail.com,Yes,Casual Visitor,2015,45.48,$400-800k,Not enough selection
+201501922,Discontinued,josm45@gmail.com,Yes,Casual Visitor,2016,58.19,$200-400k,Prices too high
+201501932,Discontinued,bart30@comcast.net,No,Wine Enthusiast,2016,3942.34,$800-1200k,Not enough selection
+201501940,Discontinued,acoleman@comcast.net,No,Wine Enthusiast,2016,3149.84,$800-1200k,Staff not knowledgable
+201501941,Discontinued,c.robbins@google.com,No,Wine Enthusiast,2016,1444.94,$200-400k,Not enough selection
+201501946,Discontinued,andrews1@hotmail.com,No,High Roller,2016,5693.25,$400-800k,Poor service
+201501955,Discontinued,o.king@facebook.com,No,Wine Enthusiast,2016,1084.87,$200-400k,Prices too high
+201501972,Discontinued,acampbell@googlemail.com,Yes,Casual Visitor,2015,208.8,$100-200k,
+201501978,Discontinued,bmiller9@mail.com,No,Wine Enthusiast,2016,1240.01,$200-400k,Staff not knowledgable
+201501992,Discontinued,stephensl@aol.com,No,Wine Enthusiast,2015,1831.28,$200-400k,Not enough selection
+201502010,Discontinued,lstevens@mac.com,No,Wine Enthusiast,2016,711.47,$1200-1800k,Not enough selection
+201502018,Discontinued,c.perry@comcast.net,Yes,Casual Visitor,2016,176.7,$100-200k,Prices too high
+201502019,Discontinued,mlowe4@sbcglobal.net,Yes,Casual Visitor,2016,1105.23,$200-400k,Prices too high
+201502030,Discontinued,qbaker@msn.com,No,Wine Enthusiast,2015,3212.3,$800-1200k,Staff not knowledgable
+201502036,Discontinued,chase4@verizon.net,Yes,Casual Visitor,2016,508.75,$400-800k,Prices too high
+201502054,Discontinued,rmcgee1@live.com,Yes,Casual Visitor,2016,543.82,$200-400k,Prices too high
+201502073,Discontinued,edillon@att.net,No,Wine Enthusiast,2015,1299.46,$200-400k,Staff not knowledgable
+201502083,Discontinued,marc11@comcast.net,No,Wine Enthusiast,2016,3613.15,$800-1200k,Staff not knowledgable
+201502084,Discontinued,jher75@me.com,Yes,Casual Visitor,2016,167.89,$200-400k,Staff not knowledgable
+201502111,Discontinued,t.vaughan@mac.com,No,Wine Enthusiast,2016,249.35,$100-200k,Staff not knowledgable
+201502112,Discontinued,ward8@me.com,Yes,Casual Visitor,2016,616.55,$200-400k,Staff not knowledgable
+201502113,Discontinued,bphillips@facebook.com,No,Wine Enthusiast,2016,2597.06,$400-800k,Prices too high
+201502122,Discontinued,rbel1@aol.com,No,Wine Enthusiast,2016,813.66,$1200-1800k,Staff not knowledgable
+201502130,Discontinued,jdou64@aol.com,No,Luxury Estate,2016,44.76,$1200-1800k,Staff not knowledgable
+201502140,Discontinued,twheeler6@hotmail.com,No,Wine Enthusiast,2016,593.95,$100-200k,Not enough selection
+201502143,Discontinued,dhill@msn.com,Yes,Casual Visitor,2016,376.33,$200-400k,Prices too high
+201502149,Discontinued,petersonm@comcast.net,No,Wine Enthusiast,2016,2529.15,$400-800k,Not enough selection
+201502153,Discontinued,castillor@facebook.com,No,High Roller,2015,572.01,$400-800k,Not enough selection
+201502161,Discontinued,krodriguez3@earthlink.net,Yes,Casual Visitor,2016,820.22,$400-800k,Poor service
+201502180,Discontinued,andl67@charter.net,No,Wine Enthusiast,2016,2157.88,$400-800k,Poor service
+201502187,Discontinued,armstrongr@hotmail.com,No,Wine Enthusiast,2016,1537.3,$200-400k,Staff not knowledgable
+201502191,Discontinued,pmorton@gmail.com,Yes,Casual Visitor,2015,448.21,$200-400k,Prices too high
+201502200,Discontinued,hpri21@juno.com,Yes,Casual Visitor,2016,261.81,$100-200k,Staff not knowledgable
+201502208,Discontinued,rtho80@me.com,No,Wine Enthusiast,2016,1125.78,$200-400k,Not enough selection
+201502211,Discontinued,evem68@aol.com,No,High Roller,2016,640.61,$400-800k,Poor service
+201502214,Discontinued,m.munoz@aol.com,No,Wine Enthusiast,2016,2602.78,$400-800k,Not enough selection
+201502223,Discontinued,t.rogers@juno.com,No,Wine Enthusiast,2016,3499.1,$800-1200k,Poor service
+201502235,Discontinued,h.davis@juno.com,Yes,Casual Visitor,2016,253.54,$200-400k,Prices too high
+201502242,Discontinued,marg32@yahoo.com,No,Wine Enthusiast,2016,259.76,$100-200k,Staff not knowledgable
+201502252,Discontinued,mguerrero2@aol.com,No,Wine Enthusiast,2016,1068.52,$200-400k,Staff not knowledgable
+201502256,Discontinued,wrodriguez@juno.com,No,Wine Enthusiast,2016,1743.21,$200-400k,Staff not knowledgable
+201502261,Discontinued,m.curtis@cox.net,No,Wine Enthusiast,2016,812.97,$200-400k,Not enough selection
+201502274,Discontinued,cbry94@cox.net,Yes,Casual Visitor,2016,193.85,$400-800k,Prices too high
+201502313,Discontinued,brewer2@sbcglobal.net,No,Wine Enthusiast,2016,623.98,$100-200k,Staff not knowledgable
+201502316,Discontinued,v.king@cox.net,Yes,Casual Visitor,2015,322.72,$400-800k,Prices too high
+201502322,Discontinued,jmyers5@earthlink.net,No,Wine Enthusiast,2016,1395.05,$200-400k,
+201502347,Discontinued,bartlettj@juno.com,No,Wine Enthusiast,2015,1696.24,$200-400k,Poor service
+201502370,Discontinued,johnsona@msn.com,Yes,Casual Visitor,2016,214.49,$200-400k,Prices too high
+201502393,Discontinued,cbro29@gmx.com,Yes,Casual Visitor,2016,612.35,Below $100k,Poor service
+201502401,Discontinued,albt48@googlemail.com,No,Wine Enthusiast,2016,2611.19,$400-800k,Staff not knowledgable
+201502414,Discontinued,jonesg@live.com,No,Wine Enthusiast,2016,221.94,$100-200k,Staff not knowledgable
+201502428,Discontinued,jclarke9@cox.net,No,Wine Enthusiast,2016,1159.96,$200-400k,Staff not knowledgable
+201502435,Discontinued,joac93@live.com,No,Wine Enthusiast,2016,2994.55,$800-1200k,Staff not knowledgable
+201502455,Discontinued,kfleming@earthlink.net,Yes,Casual Visitor,2016,1177.16,$100-200k,Prices too high
+201502470,Discontinued,cox6@att.net,Yes,Casual Visitor,2015,924.38,$200-400k,Poor service
+201502482,Discontinued,kjon91@earthlink.net,No,Luxury Estate,2015,595.53,$800-1200k,Staff not knowledgable
+201502484,Discontinued,jacksond@cox.net,Yes,Wine Enthusiast,2016,942.31,$200-400k,Staff not knowledgable
+201502488,Discontinued,lindsey4@live.com,Yes,Casual Visitor,2016,266.37,$100-200k,Staff not knowledgable
+201502489,Discontinued,hdav54@att.net,No,Wine Enthusiast,2015,1118.64,$200-400k,Staff not knowledgable
+201502501,Discontinued,careye@aol.com,Yes,Casual Visitor,2015,284.37,Below $100k,Poor service
+201502510,Discontinued,gjensen5@gmail.com,Yes,Casual Visitor,2016,540.27,Below $100k,Poor service
+201502513,Discontinued,scoc18@aol.com,Yes,Casual Visitor,2016,387.11,$400-800k,
+201502518,Discontinued,a.gilbert@msn.com,Yes,Casual Visitor,2015,154.77,$200-400k,Not enough selection
+201502522,Discontinued,gpag95@google.com,No,Wine Enthusiast,2016,1503.48,$200-400k,
+201502526,Discontinued,lpalmer@sbcglobal.net,No,Wine Enthusiast,2016,411.71,$100-200k,Staff not knowledgable
+201502546,Discontinued,mhayden5@charter.net,Yes,Casual Visitor,2016,278.53,$200-400k,
+201502554,Discontinued,munoz8@comcast.net,Yes,Casual Visitor,2016,148.57,$400-800k,Wine quality
+201502557,Discontinued,piercer@hotmail.com,Yes,Casual Visitor,2016,386.79,$200-400k,Not enough selection
+201600002,Discontinued,nunez8@google.com,No,Wine Enthusiast,2016,1861.74,$200-400k,Staff not knowledgable
+201600018,Discontinued,w.lozano@juno.com,Yes,Casual Visitor,2016,291.62,$200-400k,Prices too high
+201600067,Discontinued,jwalker8@earthlink.net,Yes,Casual Visitor,2016,599.67,$200-400k,Poor service
+201600073,Discontinued,s.scott@facebook.com,No,Wine Enthusiast,2016,1490.28,$200-400k,Wine quality
+201600079,Discontinued,hall2@charter.net,No,Wine Enthusiast,2016,1567,$200-400k,Staff not knowledgable
+201600097,Discontinued,boyer6@sbcglobal.net,No,Wine Enthusiast,2016,1465.16,$200-400k,Wine quality
+201600106,Discontinued,davis9@live.com,Yes,Casual Visitor,2016,1963.94,$100-200k,Poor service
+201600114,Discontinued,l.king@earthlink.net,No,High Roller,2016,628.62,$400-800k,Poor service
+201600119,Discontinued,tcohen@gmail.com,Yes,Wine Enthusiast,2016,1863.66,$200-400k,Wine quality
+201600120,Discontinued,rmax10@yahoo.com,Yes,Casual Visitor,2016,106.18,$200-400k,Prices too high
+201600135,Discontinued,r.johnston@live.com,Yes,Casual Visitor,2016,965.61,$200-400k,Prices too high
+201600145,Discontinued,vasquez5@msn.com,Yes,Casual Visitor,2016,535.84,$200-400k,
+201600147,Discontinued,r.boyle@bellsouth.net,No,Luxury Estate,2016,692.71,$400-800k,Poor service
+201600158,Discontinued,vhoward@googlemail.com,No,Wine Enthusiast,2016,974.02,$200-400k,Staff not knowledgable
+201600216,Discontinued,cervantes8@aol.com,No,Luxury Estate,2016,501.87,$800-1200k,Staff not knowledgable
+201600218,Discontinued,sram9@yahoo.com,Yes,Casual Visitor,2016,617.13,Below $100k,Prices too high
+201600224,Discontinued,jgarcia3@hotmail.com,Yes,Casual Visitor,2016,788.95,$100-200k,Prices too high
+201600244,Discontinued,ctay48@charter.net,No,Wine Enthusiast,2016,3590.37,$800-1200k,Not enough selection
+201600299,Discontinued,r.shah@mac.com,No,Wine Enthusiast,2016,634.59,$100-200k,Staff not knowledgable
+201600308,Discontinued,cjenkins4@bellsouth.net,Yes,Casual Visitor,2016,399.57,Below $100k,Prices too high
+201600312,Discontinued,c.neal@mail.com,No,Luxury Estate,2016,846.22,$800-1200k,Not enough selection
+201600340,Discontinued,emar9@yahoo.com,No,Wine Enthusiast,2016,1356.87,$200-400k,Poor service
+201600365,Discontinued,cporter9@facebook.com,No,Wine Enthusiast,2016,2170.68,$400-800k,Not enough selection
+201600366,Discontinued,mhernandez@mac.com,Yes,Casual Visitor,2016,937.6,$400-800k,
+201600384,Discontinued,jhudson8@mac.com,No,Wine Enthusiast,2016,1579.09,$200-400k,Not enough selection
+201600387,Discontinued,elmm31@sbcglobal.net,No,Wine Enthusiast,2016,1119.01,$200-400k,Staff not knowledgable
+201600391,Discontinued,wilf98@bellsouth.net,Yes,Casual Visitor,2016,59.26,$400-800k,Not enough selection
+201600406,Discontinued,shej1@yahoo.com,Yes,Casual Visitor,2016,140.14,Below $100k,Prices too high
+201600415,Discontinued,sdickerson7@me.com,Yes,Casual Visitor,2016,737.85,$200-400k,Wine quality
+201600427,Discontinued,barb43@att.net,Yes,Casual Visitor,2016,472.99,$200-400k,Prices too high
+201600429,Discontinued,d.taylor@yahoo.com,No,Wine Enthusiast,2016,1493.79,$200-400k,Not enough selection
+201600446,Discontinued,lambert3@att.net,Yes,Casual Visitor,2016,348.8,$200-400k,Prices too high
+201600452,Discontinued,gfis86@google.com,No,Wine Enthusiast,2016,1917.68,$200-400k,Staff not knowledgable
+201600462,Discontinued,sams19@live.com,No,Wine Enthusiast,2016,7844.04,$800-1200k,Staff not knowledgable
+201600484,Discontinued,tzuniga7@gmx.com,No,Wine Enthusiast,2016,1783.78,$200-400k,Staff not knowledgable
+201600544,Discontinued,tbailey8@earthlink.net,Yes,Casual Visitor,2016,1222.37,$200-400k,Staff not knowledgable
+201600548,Discontinued,aking6@aol.com,No,Wine Enthusiast,2016,1607.03,$200-400k,Not enough selection
+201600557,Discontinued,parker7@mail.com,Yes,Casual Visitor,2016,390.34,$400-800k,Poor service
+201600574,Discontinued,bruce2@att.net,Yes,Wine Enthusiast,2016,522.74,$100-200k,Staff not knowledgable
+201600575,Discontinued,jcom76@mail.com,Yes,Casual Visitor,2016,101.14,$200-400k,Poor service
+201600595,Discontinued,j.walker@aol.com,No,Wine Enthusiast,2016,1203.08,$200-400k,Prices too high
+201600602,Discontinued,cdix15@juno.com,No,Wine Enthusiast,2016,482.72,$100-200k,Staff not knowledgable
+201600650,Discontinued,jmur37@googlemail.com,Yes,Casual Visitor,2016,1079.8,$400-800k,Prices too high
+201600664,Discontinued,rcla52@mail.com,No,Wine Enthusiast,2016,1991.01,$200-400k,Staff not knowledgable
+201600675,Discontinued,gmanning@gmx.com,Yes,Casual Visitor,2016,535.06,$400-800k,
+201600689,Discontinued,campbella@mail.com,Yes,Wine Enthusiast,2016,1482.82,$200-400k,Not enough selection
+201600695,Discontinued,jenn54@sbcglobal.net,Yes,Wine Enthusiast,2016,2233.62,$400-800k,Staff not knowledgable
+201600704,Discontinued,tcoh66@live.com,No,Wine Enthusiast,2016,2039.02,$400-800k,Not enough selection
+201600777,Discontinued,ibarra4@mail.com,No,Wine Enthusiast,2016,100.19,$100-200k,Staff not knowledgable
+201600789,Discontinued,hwil97@googlemail.com,Yes,Wine Enthusiast,2016,870.26,$100-200k,Staff not knowledgable
+201600820,Discontinued,cara50@mail.com,No,Wine Enthusiast,2016,1749.29,$200-400k,Staff not knowledgable
+201600852,Discontinued,jmor15@facebook.com,No,Wine Enthusiast,2016,899.83,$200-400k,Not enough selection
+201600870,Discontinued,lmorales@cox.net,Yes,Casual Visitor,2016,435.79,$200-400k,Wine quality
+201600890,Discontinued,pfitzgerald8@mac.com,Yes,Casual Visitor,2016,490.95,$200-400k,Prices too high
+201600898,Discontinued,stuart7@earthlink.net,Yes,Casual Visitor,2016,380.78,Below $100k,Prices too high
+201600918,Discontinued,c.romero@mail.com,Yes,Casual Visitor,2016,535.93,$200-400k,Prices too high
+201600921,Discontinued,bowenc@sbcglobal.net,Yes,Casual Visitor,2016,1680.71,$200-400k,
+201600939,Discontinued,rholden3@sbcglobal.net,Yes,Casual Visitor,2016,367.82,$100-200k,Prices too high
+201600947,Discontinued,mrivera9@mail.com,Yes,Casual Visitor,2016,564.77,$200-400k,Prices too high
+201600960,Discontinued,janc12@comcast.net,No,Wine Enthusiast,2016,1295.77,$200-400k,Staff not knowledgable
+201600962,Discontinued,ndyer3@hotmail.com,Yes,Casual Visitor,2016,1556.2,$200-400k,Wine quality
+201600966,Discontinued,b.rodriguez@cox.net,No,Wine Enthusiast,2016,986.38,$1200-1800k,Wine quality
+201600971,Discontinued,r.hammond@mac.com,No,Wine Enthusiast,2016,309.89,$100-200k,Prices too high
+201600975,Discontinued,miranda4@earthlink.net,Yes,Casual Visitor,2016,347.32,Below $100k,Prices too high
+201600998,Discontinued,ajohnson@sbcglobal.net,Yes,Casual Visitor,2016,207.83,$200-400k,Prices too high
+201601003,Discontinued,dcabrera@googlemail.com,Yes,Casual Visitor,2016,125.2,$200-400k,
+201601009,Discontinued,sbutler2@hotmail.com,Yes,Casual Visitor,2016,626.91,$100-200k,Prices too high
+201601011,Discontinued,vreid9@att.net,Yes,Casual Visitor,2016,638.53,$200-400k,Prices too high
+201601015,Discontinued,bobh76@comcast.net,No,Wine Enthusiast,2016,1429.93,$200-400k,Staff not knowledgable
+201601021,Discontinued,mrod36@cox.net,Yes,Casual Visitor,2016,233.63,$100-200k,Poor service
+201601025,Discontinued,mnash@charter.net,No,Wine Enthusiast,2016,525.74,$100-200k,Staff not knowledgable
+201601054,Discontinued,d.dalton@gmail.com,No,Wine Enthusiast,2016,381.35,$100-200k,Not enough selection
+201601065,Discontinued,kim2@gmail.com,No,Wine Enthusiast,2016,1773.61,$200-400k,Staff not knowledgable
+201601079,Discontinued,sloan2@live.com,No,Luxury Estate,2016,140.3,Above $1800k,Staff not knowledgable
+201601080,Discontinued,dlewis8@comcast.net,No,Wine Enthusiast,2016,4332.01,$800-1200k,Not enough selection
+201601086,Discontinued,r.hurst@charter.net,Yes,Wine Enthusiast,2016,1396.15,$200-400k,
+201601094,Discontinued,cevans@google.com,Yes,Casual Visitor,2016,1205.4,$200-400k,Not enough selection
+201601125,Discontinued,d.lopez@live.com,No,Wine Enthusiast,2016,1869.52,$200-400k,Not enough selection
+201601133,Discontinued,dhill@msn.com,No,Luxury Estate,2016,637.12,$800-1200k,Staff not knowledgable
+201601152,Discontinued,duran6@sbcglobal.net,Yes,Casual Visitor,2016,451.41,$400-800k,Prices too high
+201601155,Discontinued,geor75@aol.com,No,Wine Enthusiast,2016,999.01,$200-400k,Prices too high
+201601163,Discontinued,rbailey34@googlemail.com,No,High Roller,2016,606.24,$1200-1800k,Poor service
+201601178,Discontinued,torrese@earthlink.net,Yes,Casual Visitor,2016,1094.7,Below $100k,Poor service
+201601182,Discontinued,bradfordh@juno.com,Yes,Casual Visitor,2016,228.88,$200-400k,Wine quality
+201601188,Discontinued,c.hall@me.com,Yes,Casual Visitor,2016,137.09,$400-800k,Wine quality
+201601211,Discontinued,shenson@aol.com,No,Wine Enthusiast,2016,1083.76,$200-400k,Poor service
+201601214,Discontinued,jordan3@aol.com,No,Wine Enthusiast,2016,1935.11,$200-400k,Staff not knowledgable
+201601221,Discontinued,ortega7@gmx.com,No,Wine Enthusiast,2016,335.06,$100-200k,Not enough selection
+201601229,Discontinued,davisd@live.com,Yes,Casual Visitor,2016,458.98,$100-200k,Prices too high
+201601239,Discontinued,dtho19@juno.com,No,Wine Enthusiast,2016,47966.49,Above $1800k,Staff not knowledgable
+201601248,Discontinued,robs5@cox.net,Yes,Casual Visitor,2016,164.41,$400-800k,Not enough selection
+201601253,Discontinued,bjones@earthlink.net,No,Wine Enthusiast,2016,493.08,$100-200k,Not enough selection
+201601274,Discontinued,frew14@verizon.net,Yes,Casual Visitor,2016,298.55,$200-400k,Poor service
+201601299,Discontinued,jbrown4@mail.com,No,Wine Enthusiast,2016,1585.3,$200-400k,Staff not knowledgable
+201601330,Discontinued,robn47@mail.com,No,Wine Enthusiast,2016,2443,$400-800k,Not enough selection
+201601359,Discontinued,kdur86@mail.com,No,Wine Enthusiast,2016,535.59,$100-200k,Not enough selection
+201601368,Discontinued,turnerb@earthlink.net,Yes,Casual Visitor,2016,344,Below $100k,Staff not knowledgable
+201601372,Discontinued,moodye@live.com,No,Luxury Estate,2016,135.34,$400-800k,
+201601375,Discontinued,j.adams@charter.net,No,Wine Enthusiast,2016,2119.17,$400-800k,Staff not knowledgable
+201601389,Discontinued,m.maxwell@googlemail.com,No,Wine Enthusiast,2016,865.5,$200-400k,Not enough selection
+201601391,Discontinued,olson1@gmx.com,Yes,Casual Visitor,2016,651.35,$400-800k,Wine quality
+201601415,Discontinued,khar37@live.com,Yes,Casual Visitor,2016,907.73,$100-200k,Not enough selection
+201601443,Discontinued,mski69@verizon.net,No,Wine Enthusiast,2016,322.66,$100-200k,Staff not knowledgable
+201601455,Discontinued,conrad4@live.com,Yes,Casual Visitor,2016,374.94,$200-400k,Prices too high
+201601486,Discontinued,mbak93@att.net,No,Wine Enthusiast,2016,366.05,$100-200k,Not enough selection
+201601491,Discontinued,robg57@earthlink.net,No,Wine Enthusiast,2016,687.12,$1200-1800k,Staff not knowledgable
+201601505,Discontinued,sgoodwin@hotmail.com,Yes,Casual Visitor,2016,502.16,Below $100k,Poor service
+201601572,Discontinued,prod42@att.net,Yes,Casual Visitor,2016,68.73,$100-200k,Wine quality
+201601574,Discontinued,rtaylor@sbcglobal.net,No,Wine Enthusiast,2016,11828.86,$800-1200k,Not enough selection
+201601592,Discontinued,abender7@live.com,No,Wine Enthusiast,2016,1019.35,$200-400k,Wine quality
+201601603,Discontinued,nuneze@mac.com,Yes,Casual Visitor,2016,369.32,$200-400k,Prices too high
+201601612,Discontinued,g.newton@me.com,No,Wine Enthusiast,2016,1666.88,$200-400k,Staff not knowledgable
+201601614,Discontinued,butler7@facebook.com,No,Wine Enthusiast,2016,1202.38,$200-400k,Staff not knowledgable
+201601621,Discontinued,lpeck9@gmail.com,No,Wine Enthusiast,2016,241.25,$100-200k,Poor service
+201601629,Discontinued,patterson6@comcast.net,No,Wine Enthusiast,2016,1268.71,$200-400k,Staff not knowledgable
+201601646,Discontinued,waltond@bellsouth.net,Yes,Casual Visitor,2016,335.31,$200-400k,Prices too high
+201601709,Discontinued,king9@googlemail.com,No,Wine Enthusiast,2016,1875.23,$200-400k,Prices too high
+201601720,Discontinued,boone3@charter.net,Yes,Casual Visitor,2016,723.62,$200-400k,Poor service
+201601740,Discontinued,jclements@cox.net,No,Wine Enthusiast,2016,535.12,$100-200k,Staff not knowledgable
+201601760,Discontinued,joliver1@mail.com,Yes,Casual Visitor,2016,666.44,$200-400k,Not enough selection
+201601783,Discontinued,swelch@charter.net,Yes,Casual Visitor,2016,346.43,$200-400k,Not enough selection
+201601794,Discontinued,schultz2@bellsouth.net,No,Wine Enthusiast,2016,2528.36,$400-800k,Staff not knowledgable
+201601806,Discontinued,rodgersm@comcast.net,Yes,Casual Visitor,2016,320.41,$200-400k,
+201601893,Discontinued,julw35@yahoo.com,Yes,Casual Visitor,2016,445.14,Below $100k,Prices too high
+201601933,Discontinued,jlucero@gmail.com,Yes,Casual Visitor,2016,766.91,$200-400k,Prices too high
+201601979,Discontinued,contrerasj@me.com,No,High Roller,2016,312.86,$800-1200k,
+201602018,Discontinued,awil60@yahoo.com,Yes,Casual Visitor,2016,148.58,$100-200k,
+201602030,Discontinued,jdoyle1@comcast.net,No,Wine Enthusiast,2016,281.64,$100-200k,Not enough selection
+201602037,Discontinued,kelleya@charter.net,Yes,Casual Visitor,2016,803.42,$200-400k,Prices too high
+201602061,Discontinued,aguirre2@msn.com,Yes,Wine Enthusiast,2016,1126.33,$200-400k,Poor service
+201602065,Discontinued,chughes@cox.net,Yes,Casual Visitor,2016,135.61,$400-800k,Staff not knowledgable
+201602069,Discontinued,andersonb@bellsouth.net,No,Wine Enthusiast,2016,2369.92,$400-800k,Staff not knowledgable
+201602070,Discontinued,hughes1@me.com,Yes,Casual Visitor,2016,362.84,$200-400k,
+201602072,Discontinued,mason1@google.com,Yes,Casual Visitor,2016,386,$200-400k,Prices too high
+201602077,Discontinued,m.davis@gmail.com,No,Wine Enthusiast,2016,1889.43,$200-400k,Staff not knowledgable
+201602082,Discontinued,cmcg35@mac.com,No,Wine Enthusiast,2016,1189.21,$200-400k,Staff not knowledgable
+201602112,Discontinued,jfloyd@comcast.net,Yes,Casual Visitor,2016,137.16,Below $100k,Wine quality
+201602142,Discontinued,jscott@att.net,No,Wine Enthusiast,2016,1781.33,$200-400k,Wine quality
+201602146,Discontinued,rcas68@aol.com,Yes,Casual Visitor,2016,143.14,$400-800k,Not enough selection
+201602173,Discontinued,ray4@juno.com,Yes,Casual Visitor,2016,113.74,$100-200k,Prices too high
+201602174,Discontinued,micd71@sbcglobal.net,Yes,Casual Visitor,2016,335.58,$400-800k,Not enough selection
+201602184,Discontinued,mcombs5@verizon.net,Yes,Casual Visitor,2016,309.83,Below $100k,Not enough selection
+201602190,Discontinued,hwalls@cox.net,No,Wine Enthusiast,2016,1256.57,$200-400k,Not enough selection
+201602191,Discontinued,m.phillips@aol.com,No,Wine Enthusiast,2016,1330.19,$200-400k,Staff not knowledgable
+201602206,Discontinued,msmi56@msn.com,Yes,Casual Visitor,2016,1219.3,$400-800k,
+201602209,Discontinued,dkin75@mac.com,No,Wine Enthusiast,2016,23398.23,Above $1800k,Staff not knowledgable
+201602224,Discontinued,aray7@bellsouth.net,Yes,Casual Visitor,2016,637.01,$200-400k,Prices too high
+201602255,Discontinued,r.sexton@live.com,Yes,Casual Visitor,2016,266.29,$200-400k,Poor service
+201602289,Discontinued,ssmith@mail.com,Yes,Casual Visitor,2016,854.39,$400-800k,Prices too high
+201602294,Discontinued,jama7@aol.com,Yes,Casual Visitor,2016,738.61,$200-400k,Prices too high
+201602295,Discontinued,denglish4@facebook.com,Yes,Casual Visitor,2016,858.99,$100-200k,Prices too high
+201602298,Discontinued,jmcclure@verizon.net,Yes,Casual Visitor,2016,95.29,$400-800k,Poor service
+201602329,Discontinued,nicholson3@comcast.net,Yes,Casual Visitor,2016,250.39,$200-400k,Poor service
+201602338,Discontinued,rjon64@msn.com,Yes,Casual Visitor,2016,569.65,$400-800k,Wine quality
+201602353,Discontinued,t.elliott@mail.com,Yes,Casual Visitor,2016,1582.15,$100-200k,Poor service
+201602373,Discontinued,wilson8@earthlink.net,Yes,Casual Visitor,2016,482.73,$100-200k,Staff not knowledgable
+201602395,Discontinued,williamsb@att.net,No,Wine Enthusiast,2016,814.35,$1200-1800k,Staff not knowledgable
+201602399,Discontinued,dper73@google.com,Yes,Casual Visitor,2016,806.55,$100-200k,Staff not knowledgable
+201602426,Discontinued,nros88@cox.net,Yes,Casual Visitor,2016,225.89,$200-400k,Not enough selection
+201602433,Discontinued,colen@cox.net,No,Wine Enthusiast,2016,1802.18,$200-400k,Staff not knowledgable
+201602443,Discontinued,zhal48@comcast.net,Yes,Casual Visitor,2016,323.94,$400-800k,Staff not knowledgable
+201602451,Discontinued,lopez3@facebook.com,No,Wine Enthusiast,2016,680.17,$100-200k,Staff not knowledgable
+201602463,Discontinued,mic.smith@juno.com,No,Wine Enthusiast,2016,33073.99,Above $1800k,Staff not knowledgable
+201602468,Discontinued,gloh24@googlemail.com,Yes,Luxury Estate,2016,456.3,$800-1200k,Not enough selection
+201602477,Discontinued,jans64@gmail.com,No,Wine Enthusiast,2016,3337.44,$800-1200k,Staff not knowledgable
+201602486,Discontinued,taylorm@sbcglobal.net,No,Wine Enthusiast,2016,1627.11,$200-400k,Not enough selection
+201602490,Discontinued,dwil3@gmail.com,No,Wine Enthusiast,2016,2141.35,$400-800k,Not enough selection
+201602529,Discontinued,lmor56@att.net,Yes,Casual Visitor,2016,627.03,$200-400k,Poor service
+201602539,Discontinued,mstu58@google.com,No,Wine Enthusiast,2016,1173.64,$200-400k,Staff not knowledgable
+201602548,Discontinued,bonillad@charter.net,Yes,Casual Visitor,2016,113.21,$200-400k,Poor service
+201602553,Discontinued,srus34@comcast.net,Yes,Casual Visitor,2016,303.64,Below $100k,Staff not knowledgable
+201602567,Discontinued,mrich@juno.com,No,Wine Enthusiast,2016,464.83,$100-200k,Not enough selection
+201602571,Discontinued,s.torres@mail.com,Yes,Casual Visitor,2016,384.1,$400-800k,Staff not knowledgable
+201602578,Discontinued,dars88@sbcglobal.net,Yes,Wine Enthusiast,2016,620.02,$100-200k,Not enough selection
+201602597,Discontinued,csloan@charter.net,No,Wine Enthusiast,2016,1726.19,$200-400k,Poor service
+201602610,Discontinued,davb99@att.net,No,Wine Enthusiast,2016,509.35,$100-200k,Not enough selection
+201602626,Discontinued,stah51@juno.com,No,Wine Enthusiast,2016,813.5,$1200-1800k,Staff not knowledgable
+201602636,Discontinued,ssnyder@live.com,Yes,Casual Visitor,2016,223.9,$200-400k,Prices too high
+201602651,Discontinued,barrg@hotmail.com,Yes,Casual Visitor,2016,354.82,$200-400k,Wine quality
+201602665,Discontinued,dber96@hotmail.com,Yes,Casual Visitor,2016,161.4,$400-800k,Not enough selection
+201602669,Discontinued,prattk@gmx.com,Yes,Casual Visitor,2016,198.25,$200-400k,Not enough selection
+201602723,Discontinued,j.burnett@gmx.com,Yes,Casual Visitor,2016,72.13,$200-400k,Staff not knowledgable
+201602726,Discontinued,mjackson4@aol.com,Yes,Casual Visitor,2016,335.86,$400-800k,Wine quality
+201602728,Discontinued,hrodriguez7@facebook.com,Yes,Casual Visitor,2016,547.27,$400-800k,Wine quality
+201602742,Discontinued,mbaird3@googlemail.com,Yes,Casual Visitor,2016,55.47,$100-200k,Prices too high
+201602804,Discontinued,rpea66@gmail.com,Yes,Casual Visitor,2016,247.86,$100-200k,Staff not knowledgable
+201602876,Discontinued,cthomas7@verizon.net,Yes,Casual Visitor,2016,188.65,$200-400k,Prices too high
+201602890,Discontinued,stevens4@live.com,No,Luxury Estate,2016,769.92,$1200-1800k,Staff not knowledgable
+201602897,Discontinued,b.yang@facebook.com,Yes,Casual Visitor,2016,481.52,$200-400k,Staff not knowledgable
+201602910,Discontinued,r.hull@facebook.com,No,Luxury Estate,2016,2371.13,$800-1200k,Prices too high
+201602934,Discontinued,carh43@juno.com,Yes,Casual Visitor,2016,229.95,$200-400k,Prices too high
+201602944,Discontinued,c.dickerson@cox.net,No,Wine Enthusiast,2016,159.93,$100-200k,Staff not knowledgable
+201602964,Discontinued,dixon5@juno.com,Yes,Casual Visitor,2016,792.33,$200-400k,Prices too high
+201602967,Discontinued,a.rodriguez@verizon.net,No,Wine Enthusiast,2016,1371.03,$200-400k,Poor service
+201602978,Discontinued,r.fernandez@bellsouth.net,Yes,Casual Visitor,2016,429.1,$200-400k,Not enough selection
+201602990,Discontinued,walls8@aol.com,No,Wine Enthusiast,2016,476.11,$100-200k,Not enough selection
+201602996,Discontinued,sortiz@live.com,No,Wine Enthusiast,2016,737.75,$1200-1800k,Not enough selection
+201603017,Discontinued,carter5@charter.net,Yes,Casual Visitor,2016,888.54,$400-800k,Poor service
+201603023,Discontinued,rherrera5@live.com,Yes,Casual Visitor,2016,318.29,$200-400k,Prices too high
+201603031,Discontinued,rnor31@bellsouth.net,No,Wine Enthusiast,2016,355.91,$100-200k,Staff not knowledgable
+201603063,Discontinued,mterry5@cox.net,Yes,Casual Visitor,2016,68.84,$400-800k,Staff not knowledgable
+201603069,Discontinued,d.thomas@google.com,No,Wine Enthusiast,2016,964.79,$200-400k,Staff not knowledgable
+201603076,Discontinued,kcarr@sbcglobal.net,Yes,Casual Visitor,2016,177.54,$100-200k,Poor service
+201603082,Discontinued,d.wolf@att.net,No,Wine Enthusiast,2016,1464.37,$200-400k,Staff not knowledgable
+201603085,Discontinued,bpham@verizon.net,Yes,Casual Visitor,2016,195.49,$200-400k,Wine quality
+201603095,Discontinued,lawrence9@charter.net,Yes,Casual Visitor,2016,676.98,$100-200k,
+201603115,Discontinued,davg52@yahoo.com,No,Wine Enthusiast,2016,2642.76,$400-800k,Staff not knowledgable
+201603119,Discontinued,i.snyder@att.net,No,Wine Enthusiast,2016,1541.92,$200-400k,Staff not knowledgable
+201603125,Discontinued,williamsc@msn.com,Yes,Casual Visitor,2016,655.22,$100-200k,Not enough selection
+201603141,Discontinued,brewer8@googlemail.com,No,Wine Enthusiast,2016,932.03,$200-400k,Not enough selection
+201603150,Discontinued,sfos11@gmail.com,No,Wine Enthusiast,2016,3217.11,$800-1200k,Not enough selection
+201603153,Discontinued,thompson5@google.com,Yes,Casual Visitor,2016,522.95,$200-400k,Staff not knowledgable
+201603166,Discontinued,b.evans@bellsouth.net,Yes,Casual Visitor,2016,641.46,Below $100k,Prices too high
+201603191,Discontinued,tjohnson9@facebook.com,Yes,Casual Visitor,2016,98.08,$200-400k,Prices too high
+201603199,Discontinued,jonesj@live.com,No,Wine Enthusiast,2016,2763.06,$400-800k,Not enough selection
+201603210,Discontinued,brib43@charter.net,No,Wine Enthusiast,2016,3026.77,$800-1200k,Staff not knowledgable
+201603242,Discontinued,jacobs8@googlemail.com,Yes,Casual Visitor,2016,358.4,$100-200k,Prices too high
+201603248,Discontinued,johnson4@live.com,No,Wine Enthusiast,2016,1526.87,$200-400k,Staff not knowledgable
+201603251,Discontinued,dcameron1@facebook.com,Yes,Casual Visitor,2016,139.41,$200-400k,Prices too high
+201603278,Discontinued,e.knight@facebook.com,Yes,Casual Visitor,2016,983.38,$400-800k,Not enough selection
+201603350,Discontinued,fmichael9@googlemail.com,No,Wine Enthusiast,2016,1809.94,$200-400k,Poor service
+201603399,Discontinued,csmith@gmx.com,Yes,Casual Visitor,2016,111.21,$200-400k,Wine quality
+201603410,Discontinued,g.rodriguez@yahoo.com,No,Wine Enthusiast,2016,21264.57,Above $1800k,Staff not knowledgable
+201603432,Discontinued,bcarroll@cox.net,Yes,Casual Visitor,2016,69.35,$400-800k,Staff not knowledgable
+201603440,Discontinued,ramirez4@me.com,No,Wine Enthusiast,2016,236.6,$100-200k,Staff not knowledgable
+201603443,Discontinued,ralf26@mail.com,No,Wine Enthusiast,2016,602.65,$100-200k,Staff not knowledgable
+201603451,Discontinued,s.cross@charter.net,Yes,Casual Visitor,2016,392.69,Below $100k,Poor service
+201603455,Discontinued,gillespie1@bellsouth.net,Yes,Casual Visitor,2016,361.69,$200-400k,Staff not knowledgable
+201603472,Discontinued,melr51@bellsouth.net,Yes,Casual Visitor,2016,78.05,$100-200k,Wine quality
+201603483,Discontinued,shij13@gmail.com,No,Wine Enthusiast,2016,1072.79,$200-400k,Not enough selection
+201603486,Discontinued,d.duncan@att.net,No,Wine Enthusiast,2016,1600.17,$200-400k,Prices too high
+201603490,Discontinued,dono19@bellsouth.net,No,Wine Enthusiast,2016,1718.17,$200-400k,Staff not knowledgable
+201603500,Discontinued,m.rubio@me.com,No,Wine Enthusiast,2016,1499.78,$200-400k,Not enough selection
+201603505,Discontinued,bhart@googlemail.com,No,Wine Enthusiast,2016,431.89,$100-200k,Staff not knowledgable
+201603517,Discontinued,mendoza4@comcast.net,Yes,Casual Visitor,2016,210,$200-400k,Prices too high
+201603522,Discontinued,mara76@earthlink.net,Yes,Casual Visitor,2016,994.52,$100-200k,Prices too high
+201603524,Discontinued,chapman3@googlemail.com,No,Wine Enthusiast,2016,791.62,$100-200k,Wine quality
+201603592,Discontinued,hleon@comcast.net,Yes,Wine Enthusiast,2016,1804.92,$200-400k,Staff not knowledgable
+201603622,Discontinued,vsha37@att.net,No,Wine Enthusiast,2016,2081.12,$200-400k,Not enough selection
+201603623,Discontinued,kats39@juno.com,Yes,Casual Visitor,2016,415.17,$400-800k,Wine quality
+201603670,Discontinued,l.meadows@charter.net,Yes,Casual Visitor,2016,96.58,$100-200k,Staff not knowledgable
+201603694,Discontinued,d.bowen@verizon.net,No,Luxury Estate,2016,442.38,$400-800k,Prices too high
+201603696,Discontinued,wilj37@verizon.net,Yes,Casual Visitor,2016,618.04,Below $100k,Prices too high
+201603717,Discontinued,hernandezc@cox.net,Yes,Casual Visitor,2016,1358.03,$200-400k,
+201603737,Discontinued,srivera@facebook.com,No,Wine Enthusiast,2016,1840.45,$200-400k,Staff not knowledgable
+201603760,Discontinued,dnorman@gmail.com,No,Wine Enthusiast,2016,1533.4,$200-400k,Not enough selection
+201603816,Discontinued,sone60@gmail.com,No,Wine Enthusiast,2016,1765.57,$200-400k,Staff not knowledgable
+201603831,Discontinued,mathis5@verizon.net,Yes,Casual Visitor,2016,71.46,$200-400k,Prices too high
+201603842,Discontinued,cterrell8@hotmail.com,Yes,Wine Enthusiast,2016,580.24,$100-200k,Staff not knowledgable
+201603852,Discontinued,collierl@googlemail.com,Yes,Casual Visitor,2016,255.38,$200-400k,Not enough selection
+201603854,Discontinued,sham5@msn.com,No,Wine Enthusiast,2016,2432.98,$400-800k,Not enough selection
+201603864,Discontinued,l.russell@googlemail.com,No,Wine Enthusiast,2016,895.59,$200-400k,Wine quality
+201603869,Discontinued,awil64@earthlink.net,No,Wine Enthusiast,2016,440.77,$100-200k,Not enough selection
+201603874,Discontinued,jgates5@att.net,Yes,Casual Visitor,2016,332.14,$200-400k,Prices too high
+201603884,Discontinued,m.long@bellsouth.net,Yes,Casual Visitor,2016,437,$200-400k,Staff not knowledgable
+201603887,Discontinued,shew57@verizon.net,Yes,Casual Visitor,2016,1155.85,$100-200k,
+201603904,Discontinued,w.mcdonald@aol.com,No,Wine Enthusiast,2016,2666.06,$400-800k,Staff not knowledgable
+201603921,Discontinued,manderson9@aol.com,Yes,Luxury Estate,2016,641.04,$800-1200k,Not enough selection
+201603933,Discontinued,kschmidt@gmail.com,No,Wine Enthusiast,2016,173.52,$100-200k,Staff not knowledgable
+201603934,Discontinued,rubc79@verizon.net,Yes,Casual Visitor,2016,770.96,$100-200k,Prices too high
+201603970,Discontinued,dunderwood6@earthlink.net,Yes,Casual Visitor,2016,398.57,$200-400k,Wine quality
+201603986,Discontinued,d.knight@juno.com,No,Wine Enthusiast,2016,1138.7,$200-400k,Staff not knowledgable
+201603987,Discontinued,nelson7@comcast.net,Yes,Casual Visitor,2016,577.02,Below $100k,Prices too high
+201603998,Discontinued,smcc5@verizon.net,No,Wine Enthusiast,2016,1957.3,$200-400k,Poor service
+201604001,Discontinued,hernandez1@gmail.com,Yes,Casual Visitor,2016,233.7,Below $100k,Not enough selection
+201604007,Discontinued,cook1@hotmail.com,Yes,Casual Visitor,2016,359.96,$200-400k,Staff not knowledgable
+201604019,Discontinued,t.kramer@gmail.com,Yes,Casual Visitor,2016,1980.28,$200-400k,Not enough selection
+201604024,Discontinued,nunezk@facebook.com,No,Wine Enthusiast,2016,1480.77,$200-400k,Not enough selection
+201604057,Discontinued,mcdonald9@hotmail.com,No,Wine Enthusiast,2016,383.64,$100-200k,
+201604058,Discontinued,rshe97@att.net,No,Wine Enthusiast,2016,372.47,$100-200k,Staff not knowledgable
+201604064,Discontinued,btodd2@facebook.com,No,Wine Enthusiast,2016,1009.12,$200-400k,Staff not knowledgable
+201604095,Discontinued,vicb34@comcast.net,Yes,Casual Visitor,2016,1124.97,$200-400k,Not enough selection
+201604119,Discontinued,asmith@gmail.com,Yes,Casual Visitor,2016,210.97,$200-400k,Poor service
+201604127,Discontinued,garw67@googlemail.com,No,Luxury Estate,2016,1353.04,$1200-1800k,Not enough selection
+201604132,Discontinued,archer9@hotmail.com,No,Wine Enthusiast,2016,654.23,$100-200k,Wine quality
+201604155,Discontinued,sadl3@me.com,Yes,Casual Visitor,2016,70.19,$100-200k,Staff not knowledgable
+201604156,Discontinued,hsto89@comcast.net,Yes,Wine Enthusiast,2016,2666.61,$400-800k,Staff not knowledgable
+201604169,Discontinued,dbarker2@facebook.com,No,Wine Enthusiast,2016,1928.24,$200-400k,Staff not knowledgable
+201604171,Discontinued,noble8@earthlink.net,No,Wine Enthusiast,2016,719.87,$100-200k,Not enough selection
+201604184,Discontinued,small4@verizon.net,Yes,Casual Visitor,2016,401.49,$100-200k,Prices too high
+201604188,Discontinued,lclark6@mail.com,No,Wine Enthusiast,2016,1888.1,$200-400k,Staff not knowledgable

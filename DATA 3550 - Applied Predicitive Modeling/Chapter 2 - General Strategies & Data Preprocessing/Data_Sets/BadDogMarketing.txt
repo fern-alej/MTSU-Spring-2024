@@ -1,0 +1,1 @@
+Customer_Segment	CS_Index	MarketingCasual Visitor	1	EmailHigh Roller	2	ConciergeLuxury Estate	3	ConciergeWine Enthusiast	4	Email
